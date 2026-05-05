@@ -273,7 +273,7 @@ git push origin feature/your-improvement
 
 ## 📜 License
 
-This project is licensed under the [MIT License]() - see the LICENSE file for details.<br/> 
+This project is licensed under the [MIT License](https://github.com/PriyanshuKhambalkar/Wifi-Deauthentication/blob/5d998aff775c9bb5f4e8c9e21dedd050b6221344/LICENSE) - see the LICENSE file for details.<br/> 
 For any other use, please get in touch with the author.
 
 ---
