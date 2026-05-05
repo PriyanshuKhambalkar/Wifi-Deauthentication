@@ -273,8 +273,8 @@ git push origin feature/your-improvement
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
-For any other use, please contact the author.
+This project is licensed under the [MIT License]() - see the LICENSE file for details.<br/> 
+For any other use, please get in touch with the author.
 
 ---
 
