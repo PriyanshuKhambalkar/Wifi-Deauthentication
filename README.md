@@ -250,7 +250,7 @@ Contributions for educational improvements are welcome.
 
 ```bash
 # Fork the repository
-git fork https://github.com/18PriyanshuK/Wifi-Deauthentication.git
+git fork https://github.com/PriyanshuKhambalkar/Wifi-Deauthentication.git
 
 # Create a feature branch
 git checkout -b feature/your-improvement
